@@ -8,7 +8,7 @@
 
 ## Summary of Findings
 
-> In the exploration there was a strong relationship between income range and monthly loan payments. It was observed that borrowers in the highest income ranges also had the higest monthly loan payments. Owning a home or having varifiable income were also features that had an observable impact on the monthly loan payments of a borrower as home owners and people with verifiable income were observed to habe higher monthly loan payments.
+> In the exploration there was a strong relationship between income range and monthly loan payments. It was observed that borrowers in the highest income ranges also had the higest monthly loan payments. Owning a home or having varifiable income were also features that had an observable impact on the monthly loan payments of a borrower as home owners and people with verifiable income were observed to have higher monthly loan payments.
 
 
 ## Key Insights for Presentation
